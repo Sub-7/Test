@@ -1,0 +1,19 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/edds/Thumbnail.jpg",
+      "size": 14349,
+      "date": 132436379371806213
+    },
+    {
+      "path": "manifest.json",
+      "size": 271,
+      "date": 132437020972859933
+    },
+    {
+      "path": "scenery/edds.bgl",
+      "size": 556,
+      "date": 132437025660957383
+    }
+  ]
+}
